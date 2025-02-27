@@ -47,8 +47,16 @@ int main() {
     return 0;
 }
 
+//________ OutPut ________
+//Default Constructor Called
+//Name: Unknown, Age: 0
+//Parameterized Constructor Called
+//Name: Abhi, Age: 19
+//Copy Constructor Called
+//Name: Abhi, Age: 19
 
+ 
 
-You know who I am:)
+//You know who I am:)
 
 
