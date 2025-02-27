@@ -1,2 +1,1 @@
-# OOPs-In-CPP
-OOPs in C++
+In this file all the code belongs to OOPs concept in C++ 
